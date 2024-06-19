@@ -1,0 +1,24 @@
+.carItems{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(199, 238, 238);
+    gap: 10px;
+    align-items: center;
+    border: 1px solid black;
+    box-shadow:  0 0 5px rgba(0, 0, 0, 0.8);
+    border-radius: 15px;
+}
+.carItems > img {
+    width: 500px;
+    border-radius: 15px;
+
+}
+
+.carItems > button {
+        background-color: #536a6b;
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        border-radius: 5px;
+        cursor: pointer;
+      }

@@ -1,0 +1,7 @@
+.carList{
+    background-color: rgb(217, 248, 248);
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+}

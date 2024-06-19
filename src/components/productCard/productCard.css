@@ -1,0 +1,14 @@
+.product-card {
+    width: 400px;
+    border: 1px solid black;
+    padding: 20px;
+    background-color: rgb(187, 164, 231);
+}
+
+.product-card > img {
+    width: 100px;
+}
+
+.disable {
+    background-color: rgba(208,203,203,0.2a);
+}
